@@ -1,6 +1,6 @@
 # ***Classification: Logistic Regresion and Naive Bayes***
 
-*Seventh python workshop for Artificial Intelligence class focused on classifications methods: logistic regresion and naive bayes*
+*Seventh python workshop for Artificial Intelligence class focused on classification methods: logistic regresion and naive bayes*
 
 ## ***Built With*** 🛠️
 
